@@ -3,6 +3,7 @@
 [![website](https://img.shields.io/badge/www.joshkasuboski.com-%23008DE4.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://www.joshkasuboski.com)
 [![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kasuboski)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshkasuboski/)
+[💸 kit.co](https://kit.co/kasuboski)
 
 <!--
 **kasuboski/kasuboski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
