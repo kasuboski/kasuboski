@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![website](https://img.shields.io/badge/www.joshkasuboski.com-%23008DE4.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://www.joshkasuboski.com)
-[![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/kasuboski)
+[![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kasuboski)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshkasuboski/)
 
 <!--
